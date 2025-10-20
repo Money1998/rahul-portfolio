@@ -9,7 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "main -d dist"
   },
   "homepage": "https://Money1998.github.io/rahul-portfolio",
   "dependencies": {
